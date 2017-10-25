@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<gpx
-  version="1.1"
-  creator="Runkeeper - http://www.runkeeper.com"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xmlns="http://www.topografix.com/GPX/1/1"
-  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
-  xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
-
-<trkpt lat="35.677015" lon="139.761220"><ele>3.4</ele><time>2017-10-22T09:41:29Z</time><extensions></extensions></trkpt>
+<?xml version="1.0"?>
+<gpx version="1.1" creator="gpxgenerator.com">
+<wpt lat="35.67986669964124" lon="139.76279854774475">
+    <ele>3.20</ele>
+    <time>2017-10-25T13:06:21Z</time>
+</wpt>
+<wpt lat="35.67492039849277" lon="139.76117849349976">
+    <ele>2.96</ele>
+    <time>2017-10-25T13:11:05Z</time>
+</wpt>
+<wpt lat="35.67543068692214" lon="139.76200461387634">
+    <ele>3.23</ele>
+    <time>2017-10-25T13:11:51Z</time>
+</wpt>
+<wpt lat="35.67618456502187" lon="139.7619616985321">
+    <ele>2.98</ele>
+    <time>2017-10-25T13:12:32Z</time>
+</wpt>
+<wpt lat="35.67701028209414" lon="139.76121068000793">
+    <ele>5.74</ele>
+    <time>2017-10-25T13:13:29Z</time>
+</wpt>
 </gpx>
